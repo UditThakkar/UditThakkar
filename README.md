@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://uditthakkar.netlify.app/](https://uditthakkar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://uditthakkar.github.io/UditThacker/](https://uditthakkar.github.io/UditThacker/)
 
 - 💬 Ask me about **DSA, Competitive Coding**
 
