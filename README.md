@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **DSA, Competitive Coding**
 
-- 📫 How to reach me **uditthacker29@gmail.co,**
+- 📫 How to reach me **uditthacker29@gmail.com**
 
 - ⚡ Fun fact **I love Video Games and Anime**
 
