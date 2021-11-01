@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://uditthakkar.github.io/UditThacker/](https://uditthakkar.github.io/UditThacker/)
 
-- 💬 Ask me about **DSA, Competitive Coding**
+- 💬 Ask me about **DSA, Competitive Programming**
 
 - 📫 How to reach me **uditthacker29@gmail.com**
 
