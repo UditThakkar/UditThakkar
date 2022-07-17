@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://uditthakkar.github.io/UditThacker/](https://uditthakkar.github.io/UditThacker/)
 
-- Here's my <a href ="https://drive.google.com/file/d/1rjCqSZWtYTa8AAwJmcTv4Mpa4dSHgSCf/view?usp=sharing">RESUME</a>
+- Here's my <a href ="https://drive.google.com/file/d/1rjCqSZWtYTa8AAwJmcTv4Mpa4dSHgSCf/view?usp=sharing">Resume</a>
 
 - 💬 Ask me about **DSA, Competitive Programming**
 
