@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Image Processing and Core Python**
 
-- 👨‍💻 All of my projects are available at [https://uditthakkar.github.io/UditThacker/](https://uditthakkar.github.io/UditThacker/)
+- 👨‍💻 All of my projects are available at [https://udit-thakkar.netlify.app/projects.html](https://udit-thakkar.netlify.app/projects.html)
 
 - Here's my <a href ="https://drive.google.com/file/d/1rjCqSZWtYTa8AAwJmcTv4Mpa4dSHgSCf/view?usp=sharing">Resume</a>
 
