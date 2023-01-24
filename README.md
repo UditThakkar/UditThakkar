@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uditthakkar&label=Profile%20views&color=0e75b6&style=flat" alt="uditthakkar" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Machine Learning**
+- 🌱 I’m currently learning **Image Processing and Core Python**
 
 - 👨‍💻 All of my projects are available at [https://uditthakkar.github.io/UditThacker/](https://uditthakkar.github.io/UditThacker/)
 
