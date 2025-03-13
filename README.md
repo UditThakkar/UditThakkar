@@ -9,7 +9,7 @@
 
 - 🔥 Proven ability to **design RESTful APIs, optimize SQL queries**, and **troubleshoot complex production-level issues**.
 
-- 👨‍💻 All of my projects are available at [https://udit-thakkar.netlify.app/projects.html](https://udit-thakkar.netlify.app/projects.html)
+- 👨‍💻 All of my projects are available at [https://udit-thakkar.vercel.app/projects](https://udit-thakkar.vercel.app/projects).
 
 - 💬 Ask me about **Java, Spring Boot, REST APIs, SQL optimization, and scalable architecture**.
 
