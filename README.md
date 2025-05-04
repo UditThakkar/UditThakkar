@@ -52,8 +52,16 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uditthakkar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uditthakkar" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uditthakkar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=uditthakkar" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
