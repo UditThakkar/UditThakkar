@@ -41,6 +41,8 @@
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,aws,python,javascript,vue" />
 </p>
 
+---
+
 ### 📈 GitHub Stats
 
 <div align="center">
